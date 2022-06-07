@@ -19,15 +19,15 @@ Azure Bot Service, Azure Cognitive Services, Azure static Web apps
 
 ##  GitHub repository: https://github.com/deka014/microsoft-FRT-project
 
-## Project Demo Video: https://drive.google.com/file/d/1eoubDNe58q66iKT94bSKU8vbcTeJECII/view?usp=sharing
+## Project Demo Video: https://drive.google.com/file/d/1dr3cmgOenf6-0lZ4xHAhNB45Dk5Hbm-L/view?usp=sharing
 
 ## Screenshots:
 
 ### website screenshot:
-![My animated logo](images/website.png)
+
 
 ### Deployment using Web App screenshot:
-![My animated logo](images/web-app.png)
+
 
 ### Github build succesful screenshot:
-![My animated logo](images/github.png)
+
