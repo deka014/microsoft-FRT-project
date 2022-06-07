@@ -214,7 +214,7 @@
     <section class="second-2" id="faq">
         <div class="container container1  ">
             <h1 class="pb-4 heading">Ask us anything :)  </h1>
-            <iframe class="third shadow" src='https://webchat.botframework.com/embed/covidddd-bot?s=tmwLi2We948.OIFbbFwIAYBRLGOCWwROguTEJrHWqN7MssuWmLBpDf0'
+            <iframe class="third shadow" src='https://webchat.botframework.com/embed/frt-chat1234?s=tmwLi2We948.OIFbbFwIAYBRLGOCWwROguTEJrHWqN7MssuWmLBpDf0'
                 style='min-width: 300px; width: 100%; min-height: 500px;'></iframe>
         </div>
     </section>
