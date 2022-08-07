@@ -11,14 +11,6 @@ This web app allows the user to track the increasing number of coronavirus cases
 The web application is built on php which uses fetch api to collect the data and show. Primarily i am focusing to deploy this app in Azure so that people can directly use it from their phones and desktop. The chatbot is build using QnA maker. QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information. With the help of Azure QnA maker we can prebuilt or upload the questionaries for our chatbot. Here, we've used Azure Bot Service to add chatbot to our google site. Hence with the help of above technologies we have integrated our chatbot to the google site which we have created.
 
 
-## Primary Azure Technology
-
-Azure Bot Service, Azure Cognitive Services, Azure static Web apps
-
-## Project Link: https://covid-fr.azurewebsites.net/
-
-##  GitHub repository: https://github.com/deka014/microsoft-FRT-project
-
 
 ## Screenshots:
 
@@ -35,6 +27,15 @@ Azure Bot Service, Azure Cognitive Services, Azure static Web apps
 
 ![Annotation 2022-06-07 223240](https://user-images.githubusercontent.com/70725731/172440777-b0c4566e-e85d-4f93-ac8c-deb22df33f8d.png)
 
+
+
+## Primary Azure Technology
+
+Azure Bot Service, Azure Cognitive Services, Azure static Web apps
+
+## Project Link: https://covid-fr.azurewebsites.net/
+
+##  GitHub repository: https://github.com/deka014/microsoft-FRT-project
 
 
 
